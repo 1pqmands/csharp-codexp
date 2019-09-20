@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\bin\Debug\netcoreapp2.2\Exercício Condicional.deps.json
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\bin\Debug\netcoreapp2.2\Exercício Condicional.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\bin\Debug\netcoreapp2.2\Exercício Condicional.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\bin\Debug\netcoreapp2.2\Exercício Condicional.dll
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\bin\Debug\netcoreapp2.2\Exercício Condicional.pdb
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.dll
+C:\Users\fic\Desktop\Csharp\Exercicio Condicional\obj\Debug\netcoreapp2.2\Exercício Condicional.pdb

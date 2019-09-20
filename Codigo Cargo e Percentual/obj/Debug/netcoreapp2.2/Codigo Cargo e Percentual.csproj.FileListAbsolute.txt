@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\bin\Debug\netcoreapp2.2\Codigo Cargo e Percentual.deps.json
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\bin\Debug\netcoreapp2.2\Codigo Cargo e Percentual.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\bin\Debug\netcoreapp2.2\Codigo Cargo e Percentual.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\bin\Debug\netcoreapp2.2\Codigo Cargo e Percentual.dll
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\bin\Debug\netcoreapp2.2\Codigo Cargo e Percentual.pdb
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.dll
+C:\Users\fic\Desktop\Csharp\Codigo Cargo e Percentual\obj\Debug\netcoreapp2.2\Codigo Cargo e Percentual.pdb
